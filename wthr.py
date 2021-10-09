@@ -1,4 +1,2 @@
-
-from functools import reduce
-import pandas as pd
-import pprint
+print("its sunnny")
+print("hii kaif")
